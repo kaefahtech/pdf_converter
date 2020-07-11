@@ -130,3 +130,9 @@ dmypy.json
 
 # vscode stuff
 .vscode/
+
+# config stuff
+*.ini
+
+# Ide artifacts .idea stuff
+.idea/
